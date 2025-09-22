@@ -1,27 +1,25 @@
-# Automation Project: Login and Form Validation
+# WebApp Automation: Login Scenario
 
 ## Overview
-This project demonstrates automation of common QA scenarios such as login and form submission using **Java, Selenium WebDriver, and TestNG**. It follows a structured Page Object Model (POM) approach and includes reporting via TestNG.
+This project demonstrates automation of a web application login scenario using **Java, Selenium WebDriver, and TestNG**. It follows a structured **Page Object Model (POM)** approach and includes test reporting via TestNG. The goal is to showcase automation skills suitable for professional QA/DevOps portfolios.
 
 ## Features
-- Automated login tests (valid, invalid, empty input, logout)
-- Automated form validation (valid and invalid submissions)
-- TestNG for orchestration and reports
-- Page Object Model structure
-- Maven for dependency management
-- Git for version control
+- Automated login tests (valid, invalid, empty input, logout)  
+- Page Object Model structure for maintainable code  
+- TestNG for test orchestration and reporting  
+- Maven for dependency management  
+- Git version control and GitHub integration  
 
 ## Tech Stack
-- Java
-- Selenium WebDriver
-- TestNG
-- Maven
-- Git & GitHub
+- **Language:** Java  
+- **Automation:** Selenium WebDriver  
+- **Test Framework:** TestNG  
+- **Build Tool:** Maven  
+- **Version Control:** Git & GitHub  
 
 ## Repository Structure
-
-```
-automation-login-form/
+```text
+webapp-automation-login/
 ├── docs/
 │   └── test-cases.md
 ├── src/
